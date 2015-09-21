@@ -1,1 +1,7 @@
 This is Joe's file.
+
+But it's sort of everyone's file.
+
+You know, because this is open source and all.
+
+So it's totally cool if you want to edit it.
